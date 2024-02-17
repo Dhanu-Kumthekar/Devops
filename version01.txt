@@ -1,1 +1,11 @@
 "This is first feature of our application"
+<<<<<<< HEAD
+
+"This is the bug fix in development branch"
+
+"This is gadbad code"
+
+"This feature will gadbad everything from now."
+
+=======
+>>>>>>> parent of 4321de0 (feat:  Added feature2 in development branch)
